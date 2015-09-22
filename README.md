@@ -1,6 +1,8 @@
 osx-defaults
 ============
 
+[![Join the chat at https://gitter.im/andystanton/ansible-role-osx-defaults](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/andystanton/ansible-role-osx-defaults?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An Ansible role to set the OS X user defaults
 
 Requirements
